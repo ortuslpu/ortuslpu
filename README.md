@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ortus LPU is student organisation at Lovely Proffesional University, Punjab.
+
 <!--
 **ortuslpu/ortuslpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
